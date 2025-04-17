@@ -1,6 +1,6 @@
 <!-- Imagen de portada del informe -->
 <p align="center">
-  <img src="imgInforme.png" alt="Portada Trabajo Práctico 1" width="500"/>
+  <img src="./images/imgInforme.png" alt="Portada Trabajo Práctico 1" width="500"/>
 </p>
 
 # Trabajo Práctico 1 - Paradigmas de Programación
