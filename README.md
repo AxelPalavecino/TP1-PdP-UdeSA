@@ -1,6 +1,6 @@
 <!-- Imagen de portada del informe -->
 <p align="center">
-  <img src="portada_tp1.png" alt="Portada Trabajo Práctico 1" width="500"/>
+  <img src="imgInforme.png" alt="Portada Trabajo Práctico 1" width="500"/>
 </p>
 
 # Trabajo Práctico 1 - Paradigmas de Programación
@@ -169,8 +169,6 @@ El tercer ejercicio implementa un simulador de combate entre dos personajes, sig
 **Espacio reservado para el diagrama UML de clases:**
 
 ![UML Ejercicio 1]
-
-*(Coloque aquí el diagrama UML generado con la herramienta de su preferencia)*
 
 ---
 
